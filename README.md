@@ -10,3 +10,8 @@ API Security Testing
 https://github.com/shieldfy/API-Security-Checklist
 
 
+### Sites to practices:
+
+https://www.amanhardikar.com/mindmaps/Practice.html
+
+
